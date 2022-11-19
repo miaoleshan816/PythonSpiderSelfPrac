@@ -1,0 +1,5 @@
+对应文件：
+1. novel1.py和novel1Copy.py对应的是www.qiqixiaoshuo.com
+
+注释：1.这里新学到了，点击下一个链接（下一章节），跳往下一章爬取
+     2.加入了time.sleep()延时，避免爬虫攻击
